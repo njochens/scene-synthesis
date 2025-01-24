@@ -1,0 +1,205 @@
+{
+    "floorplan": [
+        {
+            "midiffscale": 0.05,
+            "rooms": [
+                {
+                    "category": "Bedroom",
+                    "corners": [
+                        [
+                            48,
+                            128
+                        ],
+                        [
+                            48,
+                            207
+                        ],
+                        [
+                            75,
+                            207
+                        ],
+                        [
+                            75,
+                            128
+                        ]
+                    ],
+                    "objects": [
+                        {
+                            "category": "DoubleBed"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Desk"
+                        },
+                        {
+                            "category": "Chair"
+                        }
+                    ]
+                },
+                {
+                    "corners": [
+                        [
+                            72,
+                            48
+                        ],
+                        [
+                            72,
+                            103
+                        ],
+                        [
+                            71,
+                            104
+                        ],
+                        [
+                            60,
+                            104
+                        ],
+                        [
+                            60,
+                            119
+                        ],
+                        [
+                            75,
+                            119
+                        ],
+                        [
+                            76,
+                            120
+                        ],
+                        [
+                            76,
+                            135
+                        ],
+                        [
+                            151,
+                            135
+                        ],
+                        [
+                            151,
+                            84
+                        ],
+                        [
+                            152,
+                            83
+                        ],
+                        [
+                            155,
+                            83
+                        ],
+                        [
+                            155,
+                            48
+                        ]
+                    ],
+                    "category": "Livingroom",
+                    "objects": [
+                        {
+                            "category": "DoubleBed"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Desk"
+                        },
+                        {
+                            "category": "Chair"
+                        }
+                    ]
+                },
+                {
+                    "corners": [
+                        [
+                            152,
+                            84
+                        ],
+                        [
+                            152,
+                            135
+                        ],
+                        [
+                            207,
+                            135
+                        ],
+                        [
+                            207,
+                            84
+                        ]
+                    ],
+                    "category": "Kitchen"
+                },
+                {
+                    "corners": [
+                        [
+                            104,
+                            136
+                        ],
+                        [
+                            104,
+                            203
+                        ],
+                        [
+                            155,
+                            203
+                        ],
+                        [
+                            155,
+                            136
+                        ]
+                    ],
+                    "category": "Bathroom"
+                },
+                {
+                    "corners": [
+                        [
+                            76,
+                            160
+                        ],
+                        [
+                            76,
+                            203
+                        ],
+                        [
+                            103,
+                            203
+                        ],
+                        [
+                            103,
+                            160
+                        ]
+                    ],
+                    "category": "Bedroom"
+                },
+                {
+                    "corners": [
+                        [
+                            76,
+                            136
+                        ],
+                        [
+                            76,
+                            159
+                        ],
+                        [
+                            103,
+                            159
+                        ],
+                        [
+                            103,
+                            136
+                        ]
+                    ],
+                    "category": "Hallway"
+                }
+            ]
+        }
+    ]
+}
