@@ -71,9 +71,9 @@ def draw_floorplan(json):
         if room["category"] == "Bedroom":
             color = "#777777"
         elif room["category"] == "Livingroom":
-            color = "#444444"
+            color = "#666666"
         else:
-            color = "#222222"
+            color = "#000000"
         polygon = plt.Polygon(layout, color=color, alpha=1)
         ax.add_patch(polygon)
 
@@ -101,7 +101,8 @@ def draw_floorplan(json):
     ax.set_ylim(0, 250)
     ax.set_aspect('equal', 'box')
 
-    plt.title("2D Visualization of Translations, Sizes, and Angles (X-Z Plane)")
+
+    plt.axis('off')
     plt.show()
 
 def send_post_request(address, port, endpoint, payload):

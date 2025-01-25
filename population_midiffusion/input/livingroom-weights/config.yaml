@@ -75,8 +75,8 @@ training:
 
 validation:
     splits: ["test"]
-    frequency: 1
-    batch_size: 1
+    frequency: 100
+    batch_size: 512
 
 logger:
     type: "wandb"
