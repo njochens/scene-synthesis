@@ -1,4 +1,4 @@
-# scene-synthesis
+# Population model for living and bedrooms
 
 Before you can build the docker image you need to download the pretrained weights for the bedroom and living room models from the original MiDiffusion paper [here](https://drive.google.com/drive/folders/14N87Ap90KNaDlRv5u6UeCV1h_MT9QqaN?usp=sharing).
 Copy the `model.pt` for bedroom into the folder `population_midiffusion/input/bedroom-weights` and do the same for the living room weights. **Be careful not to overwrite the `config.yaml` file!**
