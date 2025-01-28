@@ -414,9 +414,9 @@ def process_request(json_file):
         room_type = room_type_converter(room["category"])
         corners = np.array(room["corners"])
         if room_type == RoomType.LIVINGROOM:
-            lscales.append(calc_scale(corners, 10))
+            lscales.append(calc_scale(corners, 8))
         elif room_type == RoomType.BEDROOM:
-            bscales.append(calc_scale(corners, 6))
+            bscales.append(calc_scale(corners, 5))
 
     lscale = min(lscales)
     bscale = min(bscales)

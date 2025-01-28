@@ -1,0 +1,125 @@
+{
+    "seed": 2,
+    "floorplan": [
+        {
+            "rooms": [
+                {
+                    "category": "Bedroom",
+                    "objects": [
+                        {
+                            "category": "DoubleBed"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Desk"
+                        },
+                        {
+                            "category": "Chair"
+                        },
+                        {
+                            "category": "Wardrobe"
+                        }
+                    ],
+                    "corners": [
+                        [0 , 52],
+                        [0 , 122],
+                        [50 , 122],
+                        [50 , 52]
+                    ]
+                },
+                {
+                    "category": "Bedroom",
+                    "objects": [
+                        {
+                            "category": "SingleBed"
+                        },
+                        {
+                            "category": "Nightstand"
+                        },
+                        {
+                            "category": "Desk"
+                        },
+                        {
+                            "category": "Chair"
+                        },
+                        {
+                            "category": "Wardrobe"
+                        },
+                        {
+                            "category": "Bookshelf"
+                        }
+                    ],
+                    "corners": [
+                        [52 , 122],
+                        [127, 122],
+                        [127, 92],
+                        [97, 92],
+                        [97, 67],
+                        [52, 67]
+                    ]
+                },
+                {
+                    "category": "Livingroom",
+                    "objects": [
+                        {
+                            "category": "Cabinet"
+                        },
+                        {
+                            "category": "TVStand"
+                        },
+                        {
+                            "category": "Mult-SeatSofa"
+                        },
+                        {
+                            "category": "Mult-SeatSofa"
+                        },
+                        {
+                            "category": "DiningTable"
+                        },
+                        {
+                            "category": "DiningChair"
+                        },
+                        {
+                            "category": "DiningChair"
+                        }
+                    ],
+                    "corners": [
+                        [0, 0],
+                        [0, 50],
+                        [52, 50],
+                        [52, 65],
+                        [97, 65],
+                        [97, 0]
+                    ]
+                },
+                {
+                    "category": "Bathroom",
+                    "objects": [
+                    ],
+                    "corners": [
+                        [99, 45],
+                        [99, 90],
+                        [127, 90],
+                        [127, 45]
+                    ]
+                },
+                {
+                    "category": "Kitchen",
+                    "objects": [
+                    ],
+                    "corners": [
+                        [99, 0],
+                        [99, 43],
+                        [127, 43],
+                        [127, 0]
+                    ]
+                }
+            ]
+        }
+    ]   
+}

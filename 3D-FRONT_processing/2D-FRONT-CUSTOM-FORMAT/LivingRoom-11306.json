@@ -1,0 +1,1 @@
+{"seed": 1, "floorplan": [{"rooms": [{"category": "Livingroom", "corners": [[209.0, 195.0], [209.0, 305.0], [291.0, 305.0], [291.0, 195.0], [209.0, 195.0]], "objects": [{"category": "CornerSideTable", "position": [269.767, 299.17566666666664], "size": [40.5, 12.0], "angle": 3.141592653589793}]}]}]}
