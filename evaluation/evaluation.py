@@ -7,7 +7,6 @@ from caller import send_post_request
 
 # VARIABLES
 
-mode = "file"
 output_directory = "processed"
 input_directory = Path("../3D-FRONT_processing/2D-FRONT-POPULATION-FORMAT")
 address = "http://localhost"
