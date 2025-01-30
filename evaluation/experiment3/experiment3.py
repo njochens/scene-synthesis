@@ -38,7 +38,7 @@ endpoint = "/populate"
 
 all_files = [f for f in os.listdir(original_directory) if os.path.isfile(os.path.join(original_directory, f))]
 
-for i in range(1,11):
+for i in range(1,31):
     random_file = random.choice(all_files)
     with open(f'{original_directory}/{random_file}', "r") as file:
         input_json = json.load(file)
